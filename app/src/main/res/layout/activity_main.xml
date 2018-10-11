@@ -35,10 +35,9 @@
 
             <android.support.v7.widget.Toolbar
                 android:id="@+id/toolbar"
-
                 android:layout_width="match_parent"
                 android:layout_height="?attr/actionBarSize"
-                app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+                app:popupTheme="@style/ThemeOverlay.AppCompat.Dark"
                 app:layout_collapseMode="pin" />
 
         </android.support.design.widget.CollapsingToolbarLayout>
@@ -46,6 +45,7 @@
     </android.support.design.widget.AppBarLayout>
 
     <android.support.v4.widget.NestedScrollView
+        android:id="@+id/myNestedScrollView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         app:layout_behavior="@string/appbar_scrolling_view_behavior">
@@ -146,6 +146,7 @@
         app:layout_anchorGravity="bottom|right|end"
         android:src="@drawable/ic_discuss"
         android:layout_margin="16dp"
+        android:onClick="floatingActionButton_OnClick"
         android:clickable="true"/>
 
 </android.support.design.widget.CoordinatorLayout>

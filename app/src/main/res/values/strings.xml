@@ -13,4 +13,5 @@
     <string name="menu_night_mode_day">Day (always)</string>
     <string name="menu_night_mode_night">Night (always)</string>
     <string name="menu_night_mode_auto">Auto</string>
+    <string name="LoremDescription">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur dolor lorem, aliquam in nulla vel, consequat facilisis tellus. Aenean volutpat sit amet arcu id pharetra. Morbi placerat at massa quis egestas. Nullam auctor finibus leo, ac bibendum urna molestie blandit. Nam ut sem dictum nulla accumsan pharetra suscipit sit amet lacus. Sed auctor aliquet pellentesque. Nam ac placerat lacus, id volutpat enim. Proin scelerisque nec nulla quis tempus. Aenean finibus ante vel mauris posuere bibendum. Praesent pretium molestie scelerisque. Cras sit amet magna elit.</string>
 </resources>
